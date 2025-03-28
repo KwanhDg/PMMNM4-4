@@ -1,0 +1,9 @@
+# Bỏ qua thư mục upload (nếu có nội dung người dùng tải lên)
+wp-content/uploads/
+
+# Bỏ qua các file không cần thiết
+*.log
+.htaccess
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backup-db/
